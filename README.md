@@ -7,4 +7,6 @@ The artwork and game engine was provided by the instructors. I edited app.js fil
 
 You can use arrow keys to interact with the game.
 
+You can test and play the game via this link: https://maliayan.github.io/frontend-nanodegree-arcade-game/
+
 Enjoy!
